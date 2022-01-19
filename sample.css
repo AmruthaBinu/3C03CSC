@@ -1,0 +1,36 @@
+body{
+      width:80%;
+      margin:auto;
+}
+
+#contact{
+        text-align:right;
+}
+
+#content h1{
+         text-align:center;
+}
+
+#mainmenu{
+         text-align:right;
+         background-color:skyblue;
+         margin-top:10px;
+         padding:1px;
+         color:brown;
+         font-weight:bold;
+}
+
+#nav{
+    overflow:auto;
+    color:white;
+}
+
+#nav li{
+       float:right;
+       list-style-type:none;
+       padding:0px 10px;
+}
+
+#nav li a{
+         color:brown;
+} 
